@@ -1,0 +1,124 @@
+.main{
+    background-color: rgb(127, 255, 212);
+}
+
+body{
+    background-color:rgb(127, 255, 212);
+}
+
+.main2{
+    background-color:rgb(240, 255, 255);
+} 
+
+.main3{
+    background-color: antiquewhite;
+}
+
+.container1{
+    background-color:lightsalmon;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.container1 img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.container2{
+    background-color:lightsalmon;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.container2     img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.item1{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px; 
+}
+
+.item2{
+    background-color: lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item3{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item4{
+    background-color:lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item5{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item6{
+    background-color: lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.ab{
+    background-color:rgb(127, 255, 212);
+}
+
+.sub1{
+    background-color: rgb(245,255,250);
+}
+
+.sub2{
+    background-color: rgb(245,255,250);
+}
+
+.sub3{
+    background-color: rgb(245,255,250);
+}
+
+.sub4{
+    background-color: rgb(245,255,250);
+}
+
+.op{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.op img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.fu{
+    background-color:rgb(224,255,255);
+}
+
+.fuC{
+    background-color:rgb(240, 255, 255);
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.fuC img{
+    border:2px solid black;
+    border-radius: 50px;
+}
